@@ -88,4 +88,5 @@ This project demonstrates practical skills in:
 The final dashboard provides a **single interactive view of mobile sales performance**, allowing business users to quickly identify sales trends, high-performing products and brands, and areas requiring further analysis.
 
 The project demonstrates how Power BI can be used to move beyond static reporting and create **interactive, decision-oriented business intelligence solutions**.
-https://github.com/amrp186/Mobile-Sales-Dashboard/blob/main/Mobile_Sale_Dashboard.png
+<img width="1437" height="786" alt="image" src="https://github.com/user-attachments/assets/7e2e47fd-3aac-4389-ac84-9366ed5740dd" />
+
